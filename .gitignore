@@ -1,9 +1,11 @@
 # Raw data - large file, don't upload to GitHub
 Data/Raw/
-
+# Model files - large files in generale, don't upload to GitHub
+models/
 # Jupyter checkpoint files
 .ipynb_checkpoints/
-
+# vscode settings
+.vscode/
 # Python cache
 __pycache__/
 *.pyc
