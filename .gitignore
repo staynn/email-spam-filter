@@ -1,7 +1,7 @@
-# Raw data - large file, don't upload to GitHub
-Data/Raw/
+# Raw data - large files, don't upload to GitHub
+*.csv
 # Model files - large files in generale, don't upload to GitHub
-models/
+*.pkl
 # Jupyter checkpoint files
 .ipynb_checkpoints/
 # vscode settings
